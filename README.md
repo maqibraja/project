@@ -1,4 +1,4 @@
-# 💼 Full Project Portfolio – Aqib
+# 💼 Projects – Aaqib
 
 This repository showcases my experience across multiple roles including full-stack and backend development. It highlights contributions made to web and mobile applications across domains like food delivery, healthcare, real-time monitoring, automotive rental, mental wellness, and more.
 
