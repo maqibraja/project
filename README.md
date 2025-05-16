@@ -1,181 +1,147 @@
-# 💼 Projects – Aaqib
+# 💼 Aaqib's Project
 
-This repository showcases my experience across multiple roles including full-stack and backend development. It highlights contributions made to web and mobile applications across domains like food delivery, healthcare, real-time monitoring, automotive rental, mental wellness, and more.
+Welcome to my project portfolio! This repository showcases over 30 projects I've worked on as a full-stack and backend developer. These projects span industries like food delivery, e-commerce, job portals, IoT, SEO, health tech, and more.
 
----
-
-### 📅 2023
-
-#### 🧠 Powermind (Dec 2022 – Oct 2023) – AsappStudio  
-**Mental wellness mobile application**
-
-- Built scalable backend in Laravel.
-- Integrated SendGrid for transactional emails.
-- Managed server deployment (DevOps).
-- Improved engagement features.
-
-**Tech:** Laravel, PgSQL, Pusher, SendGrid, DevOps
+I specialize in building secure, scalable, and performance-optimized systems using technologies like **Laravel, PHP, Vue.js, AngularJS, React.js, Yii1**, and others.
 
 ---
 
-#### 📱 Health Coin (Mar 2023 – Oct 2023) – AsappStudio  
-**Healthcare benefits platform**
-
-- Designed backend architecture.
-- Implemented user/company/doctor roles.
-- Integrated SendGrid and Twilio for communication.
-- Developed a 15% co-payment model with secure workflows.
-
-**Tech:** Laravel, MySQL, SendGrid, Twilio, AWS, Encryption
+## 🧠 Highlights
+- 🔒 Secure Role-Based Systems & APIs  
+- ⚡ Real-time Features (Pusher, Firebase)  
+- 🛠 DevOps, Deployment & Integrations (AWS, Twilio, SendGrid)  
+- 📊 Dashboard & Reporting Systems (PDF, Admin Panels)  
+- 🌐 E-commerce, Job Portals, Food Delivery, IoT Monitoring, SEO Tools  
 
 ---
 
-#### 📁 Fyles Library (Aug 2022 – May 2023) – AsappStudio  
-**Digital media asset manager**
+## 🚀 Projects
 
-- File upload system with batch support.
-- Secure access with authentication.
-- Integrated Vimeo for video hosting.
+### 2023
 
-**Tech:** Laravel, MySQL, React.js, Vimeo APIs
+**Health Coin**  
+A health token platform with user management, SMS/email notifications, and full backend security compliance.  
+**Tech Stack:** Laravel, MySQL, AWS, SendGrid, Twilio, Encryption  
 
----
-
-#### 💻 Landing Page (Jun 2022 – Apr 2023) – AsappStudio  
-**Customizable landing page builder**
-
-- Built backend to power banner creation and media integration.
-- Linked Fyles Library for asset management.
-
-**Tech:** Laravel, MySQL, React.js
+**Powermind App**  
+Mind-training app backend with push notifications, PostgreSQL storage, and secure communication channels.  
+**Tech Stack:** Laravel, PostgreSQL, SendGrid, Pusher, DevOps  
 
 ---
 
-### 📅 2022
+### 2022–2023
 
-#### 💼 Cogen Job Portal (May 2022 – Dec 2022) – AsappStudio  
-**Job portal for connecting recruiters and applicants**
+**Fyles Library**  
+Asset management platform allowing batch upload and Vimeo API integration for media libraries.  
+**Tech Stack:** Laravel, React.js, Vimeo API, MySQL  
 
-- Developed job posting/matching features.
-- Built admin panel and access control system.
+**Landing Page (Fyles)**  
+Dynamic landing page with real-time content updates and customizable banners.  
+**Tech Stack:** Laravel, React.js, MySQL  
 
-**Tech:** Laravel, MySQL, jQuery
+**Cogen Job Portal**  
+Full-featured job portal with authentication, job posting, admin panel, and security modules.  
+**Tech Stack:** Laravel, MySQL, jQuery  
 
----
-
-#### 🌐 AsappStudio Website (May 2022)  
-**Corporate website**
-
-- Fixed bugs, improved performance, and built new modules.
-
-**Tech:** PHP, MySQL, Bootstrap
-
----
-
-### 📅 2021
-
-#### 🍽️ Kitchen WebApp (Oct 2021 – Nov 2021) – DynamoLogic Solutions  
-**Order processing and kitchen display system**
-
-- Created APIs and integrated Firebase for real-time updates.
-- Captured chef order status with image feedback.
-
-**Tech:** Laravel, MySQL, Firebase
+**AsappStudio Website**  
+Corporate website with bug fixes, performance enhancements, and new modules.  
+**Tech Stack:** PHP, MySQL, Bootstrap  
 
 ---
 
-#### 🥬 SoGreen (Aug 2021 – Sep 2021) – DynamoLogic Solutions  
-**Online food delivery system**
+### 2021–2022
 
-- Built restaurant listings, checkout, and delivery features.
+**Senegal Project**  
+Enterprise platform for task management, time tracking, and PDF reporting.  
+**Tech Stack:** Laravel, AngularJS, MySQL, mpdf  
 
-**Tech:** Laravel, Bootstrap, Vue.js
+**Kitchen WebApp**  
+Backend system for chef dashboards, order tracking, and real-time kitchen notifications.  
+**Tech Stack:** Laravel, Firebase, MySQL  
 
----
+**SoGreen**  
+Online food ordering system with restaurant listings, cart, and PayPal payment integration.  
+**Tech Stack:** Laravel, Vue.js, PayPal, MySQL  
 
-#### 🤝 DFG Affiliate (Mar 2021 – Apr 2021) – DynamoLogic Solutions  
-**Affiliate platform for MySushi**
+**DFG Affiliate (MySushi)**  
+Affiliate platform to manage commissions, referral tracking, and payout reports.  
+**Tech Stack:** Laravel, MySQL, Bootstrap  
 
-- Developed commission tracking, dashboards, and reports.
-
-**Tech:** Laravel, MySQL, Bootstrap, jQuery
-
----
-
-#### 🔌 EVChargePod (Feb 2021 – Apr 2021) – DynamoLogic Solutions  
-**EV charging station portal**
-
-- Worked on request processing and monitoring UI/UX.
-
-**Tech:** Laravel, AngularJS, MySQL
+**EVChargePod**  
+Electric vehicle charging station request and monitoring portal.  
+**Tech Stack:** Laravel, AngularJS, MySQL  
 
 ---
 
-### 📅 2020
+### 2020–2021
 
-#### 🥡 MySushi (Nov 2020 – Feb 2021) – DynamoLogic Solutions  
-**Food delivery platform**
+**MySushi**  
+Food delivery platform with live order status, user roles, and performance refactoring.  
+**Tech Stack:** Laravel, Vue.js, Bootstrap, MySQL  
 
-- Resolved bugs, optimized delivery workflows, and enhanced UX.
-
-**Tech:** Laravel, Vue.js, MySQL, Bootstrap
-
----
-
-#### 🌊 Realtime Flow Monitoring System (Feb 2020 – Oct 2020) – CDigital  
-**Live sensor-based irrigation monitoring**
-
-- Created frontend/backend with Google Maps integration.
-- Visualized real-time flow/weather data.
-
-**Tech:** Yii1, HTML, Bootstrap, PgSQL, Google Maps API
+**Punjab Irrigation Department (IoT Project)**  
+Real-time monitoring of canal flows and weather data with Google Maps visualization.  
+**Tech Stack:** Yii1, Bootstrap, Google Maps API, MySQL  
 
 ---
 
-### 📅 2019
+### 2018–2019
 
-#### 🎯 Target Observation System (Jun 2019 – Aug 2020) – CDigital  
-**Bullet tracking and analysis**
+**Organeco.pk**  
+Platform for listing and selling organic manure with filters and Cash on Delivery option.  
+**Tech Stack:** Yii1, Bootstrap, jQuery, MySQL  
 
-- Integrated image processing tools.
-- Plotted target coordinates and computed groupings.
-
-**Tech:** Laravel, Vue.js, MySQL, Highcharts
-
----
-
-#### 🚗 AVIS Car Rental (Feb 2019 – Oct 2019) – CDigital  
-**Dynamic vehicle rental platform**
-
-- Built modules for fare calculation, bookings, and reports.
-
-**Tech:** Yii1, MySQL, jQuery, Bootstrap
+**AKTA – Azad Kashmir Transport Authority**  
+Vehicle permit and fitness management with SMS alerts and printable documentation.  
+**Tech Stack:** Yii1, SMS API, Printer SDK, MySQL  
 
 ---
 
-### 📅 2018
+### 2017–2018
 
-#### 👨‍👩‍👧 Social Welfare Admin Panel (Oct 2018 – Mar 2019) – CDigital  
-**Welfare distribution system for AJK Government**
+**Tag On The Web**  
+SEO service and package subscription platform with PayPal integration and admin tools.  
+**Tech Stack:** PHP, PayPal, MySQL, Bootstrap  
 
-- Managed beneficiary records, payments, and reporting.
+**Shopspyre.pk**  
+Multi-vendor e-commerce system with order placement, product management, and CoD.  
+**Tech Stack:** PHP, MySQL, Bootstrap  
 
-**Tech:** Yii2, HTML, Bootstrap
-
----
-
-## 🛠️ Skills & Tools
-
-- **Frameworks:** Laravel, Vue.js, Yii1/Yii2, Bootstrap, React.js, AngularJS  
-- **Languages:** PHP, JavaScript, SQL  
-- **Databases:** MySQL, PostgreSQL  
-- **DevOps:** AWS, SSH, Git, Server Setup, Deployment  
-- **APIs/Integrations:** SendGrid, Twilio, Vimeo, Pusher, Google Maps  
-- **Tools:** Highcharts, Firebase, jQuery  
-- **Security:** Role-based access, Data encryption, Compliance  
+**CIAS College Website**  
+Custom CMS for managing college website content, courses, and student announcements.  
+**Tech Stack:** PHP, Bootstrap, jQuery  
 
 ---
 
-## 📫 Contact
+### 2014–2016
 
-For collaborations, freelance work, or full-time opportunities, feel free to reach out via [LinkedIn](#) or email me at [your.email@example.com].
+**College Result System**  
+Student performance management tool with grade calculation and report generation.  
+**Tech Stack:** PHP, MySQL  
+
+**Inventory System**  
+Basic inventory tracker for stock levels, low-stock alerts, and vendor management.  
+**Tech Stack:** PHP, MySQL, Bootstrap  
+
+**Billing System**  
+Small-scale invoice generation system for shopkeepers and services.  
+**Tech Stack:** PHP, MySQL, HTML  
+
+---
+
+## 📂 Tech Stack Summary
+
+| Category         | Technologies |
+|------------------|--------------|
+| **Languages**    | PHP, JavaScript, SQL |
+| **Frameworks**   | Laravel, Yii1, Vue.js, AngularJS, React.js |
+| **Databases**    | MySQL, PostgreSQL |
+| **DevOps/Tools** | AWS, Firebase, Pusher, SendGrid, Twilio, Vimeo API |
+| **Frontend**     | Bootstrap, HTML, CSS, jQuery |
+| **Integrations** | PayPal, SMS APIs, Google Maps API, Printer SDK |
+
+---
+
+## 📫 Let's Connect
+
+If you're interested in any of these projects or want to collaborate, feel free to reach out!
