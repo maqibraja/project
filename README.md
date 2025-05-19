@@ -17,7 +17,7 @@ I specialize in building secure, scalable, and performance-optimized systems usi
 
 ## 🚀 Projects
 
-### 2023
+### May 2022 – April 2023
 
 **Health Coin**  
 - As the backend developer, engineered and maintained the backend infrastructure of the Healthcoin app 
@@ -64,7 +64,7 @@ reliability.
 
 ---
 
-### 2022–2023
+### May 2022– April 2023
 
 **Fyles Library**  
 - As the backend developer, took charge of developing and maintaining the backend infrastructure of the 
@@ -142,7 +142,7 @@ optimal browsing experience.
 
 ---
 
-### 2021–2022
+### Oct 2021 – April 2022
 
 **Senegal Project**  
 - Collaborated as part of a team of 10-15 developers on the "Senegal" project, contributing to its 
@@ -229,7 +229,7 @@ stations operated reliably.
 
 ---
 
-### 2020–2021
+### Feb 2020 – Feb 2021
 
 **MySushi**  
 MySushi is a food delivery site. When I started working on the site, there were numerous problems that needed fixing and enhancements, such as slow loading times, broken links, delivery fee errors and other enhancements. I conducted a thorough analysis of the site's code and functionality to identify the root causes of the issues. Then, I implemented the necessary changes, including optimizing the site's speed, fixing broken links, and made enhancement in system. Through my efforts, I was able to significantly enhance the site's performance, resulting in an improved user experience and increased customer satisfaction.
@@ -263,7 +263,7 @@ interactions with the system, and weather information.
 
 ---
 
-### 2018–2019
+### July 2018 – Jan 2019
 
 **Organeco.pk**  
 - Developed the "Organeco.Pk" website, with a focus on the frontend using HTML and Bootstrap to 
@@ -312,7 +312,7 @@ vehicle fitness, permits, and user data.
 
 ---
 
-### 2017–2018
+### Jan 2017– Dec 2018
 
 **Tag On The Web**  
 - Collaborated with another developer to create a platform for customer to sell SEO services.
